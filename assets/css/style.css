@@ -1,0 +1,27 @@
+/**
+ * @package E-Search
+ */
+ 
+div.esearch-table {
+	margin-top: 10px;
+}
+ 
+div.esearch-table input.inputbox, div.esearch-table select, div.title-az-container {
+	width: 150px;
+	margin: 5px 0 5px 0;
+}
+ 
+div.title-az-container a {
+	font-size: 14px;
+	font-weight: normal;
+}
+ 
+div.title-az-container a.active {
+	font-weight: bold;
+	font-size: 19px;
+}
+
+span.pagination-container {
+	display: block;
+	text-align: center;
+}
